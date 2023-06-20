@@ -1,0 +1,21 @@
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.selected{
+    background-color: black;
+    color: white;
+}
+
+.not-selected{
+    background-color: white;
+    color: black;
+}
+
+.tab{
+    width: 200px;
+    height: 50px;
+    border: 2pt solid black;
+    margin: 10px;
+}
